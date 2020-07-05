@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPrimaryDark</color>
+    <color name="colorPrimaryDark">#F63E7C</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!--    colors for button style-->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!-- colors for tab and screen text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+
+    <color name="white">#dde6ec</color>
+    <color name="blue">#8BC7EA</color>
+    <color name="yellow">#d0fc7d</color>
+    <color name="pink">#E48EB5</color>
+    <color name="green">#C0F7A5</color>
+    <color name="orange">#F4D4A4</color>
+    <color name="purple">#F3C3F3</color>
+    <color name="cyan">#90F8F8</color>
+    <color name="skin_color">#FFD1C2</color>
+    <color name="darkPurple">#c0a5f7</color>
+    <color name="lightGreen">#a5f7c0</color>
+    <color name="lightBlue">#a5c0f7</color>
+    <color name="grey">#4E4F51</color>
+    <color name="red">#ED6464</color>
+
+
+    <array name="layout_colors">
+        <item>@color/white</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/pink</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/purple</item>
+        <item>@color/cyan</item>
+        <item>@color/skin_color</item>
+        <item>@color/darkPurple</item>
+        <item>@color/lightGreen</item>
+        <item>@color/lightBlue</item>
+    </array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:layout_marginBottom="-40dp"
+    android:background="@drawable/nav_background"
+    android:padding="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/pocket_notes_icon" />
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="176dp"-->
+<!--        android:layout_marginBottom="-40dp"-->
+<!--        android:background="#0e66b9"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        android:layout_marginStart="70dp"-->
+<!--        android:layout_marginLeft="70dp"-->
+<!--        android:paddingTop="65dp"-->
+<!--        android:orientation="vertical"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.Dark">-->
+
+
+    <ImageView
+        android:id="@+id/userTextView"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/pocket_notes_label" />
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="kaunainnesar@gmail.com"-->
+<!--            android:textAppearance="@style/TextAppearance.AppCompat.Small"-->
+<!--            android:layout_toLeftOf="@+id/userTextView"/>-->
+
+
+<!--    </LinearLayout>-->
+
+
+
+</LinearLayout>
